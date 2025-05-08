@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace RedSismica
 {
-    public partial class Form1 : Form
+    public partial class FormSeleccionOrden : Form
     {
-        public Form1()
+        public FormSeleccionOrden()
         {
             InitializeComponent();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Observacion_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

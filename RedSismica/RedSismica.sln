@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedSismica", "RedSismica.csproj", "{7C02D3B7-65CB-4AF7-B41F-5B0F2E830F1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C02D3B7-65CB-4AF7-B41F-5B0F2E830F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C02D3B7-65CB-4AF7-B41F-5B0F2E830F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C02D3B7-65CB-4AF7-B41F-5B0F2E830F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C02D3B7-65CB-4AF7-B41F-5B0F2E830F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5364E3A3-BB00-4ADE-AA4F-58B0C4996AC9}
+	EndGlobalSection
+EndGlobal

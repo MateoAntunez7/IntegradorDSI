@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C02D3B7-65CB-4AF7-B41F-5B0F2E830F1E}|RedSismica.csproj|c:\\users\\kedds\\source\\repos\\mateoantunez7\\integradordsi\\redsismica\\formseleccionorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C02D3B7-65CB-4AF7-B41F-5B0F2E830F1E}|RedSismica.csproj|solutionrelative:formseleccionorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C02D3B7-65CB-4AF7-B41F-5B0F2E830F1E}|RedSismica.csproj|c:\\users\\kedds\\source\\repos\\mateoantunez7\\integradordsi\\redsismica\\formseleccionorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C02D3B7-65CB-4AF7-B41F-5B0F2E830F1E}|RedSismica.csproj|solutionrelative:formseleccionorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormSeleccionOrden.cs",
+              "DocumentMoniker": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\FormSeleccionOrden.cs",
+              "RelativeDocumentMoniker": "FormSeleccionOrden.cs",
+              "ToolTip": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\FormSeleccionOrden.cs",
+              "RelativeToolTip": "FormSeleccionOrden.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:29:59.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormSeleccionOrden.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\FormSeleccionOrden.cs",
+              "RelativeDocumentMoniker": "FormSeleccionOrden.cs",
+              "ToolTip": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\FormSeleccionOrden.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormSeleccionOrden.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:13:00.701Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

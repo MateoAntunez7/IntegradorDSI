@@ -1,0 +1,9 @@
+C:\Users\kedds\source\repos\MateoAntunez7\IntegradorDSI\RedSismica\bin\Debug\RedSismica.exe.config
+C:\Users\kedds\source\repos\MateoAntunez7\IntegradorDSI\RedSismica\bin\Debug\RedSismica.exe
+C:\Users\kedds\source\repos\MateoAntunez7\IntegradorDSI\RedSismica\bin\Debug\RedSismica.pdb
+C:\Users\kedds\source\repos\MateoAntunez7\IntegradorDSI\RedSismica\obj\Debug\RedSismica.csproj.AssemblyReference.cache
+C:\Users\kedds\source\repos\MateoAntunez7\IntegradorDSI\RedSismica\obj\Debug\RedSismica.Properties.Resources.resources
+C:\Users\kedds\source\repos\MateoAntunez7\IntegradorDSI\RedSismica\obj\Debug\RedSismica.csproj.GenerateResource.cache
+C:\Users\kedds\source\repos\MateoAntunez7\IntegradorDSI\RedSismica\obj\Debug\RedSismica.csproj.CoreCompileInputs.cache
+C:\Users\kedds\source\repos\MateoAntunez7\IntegradorDSI\RedSismica\obj\Debug\RedSismica.exe
+C:\Users\kedds\source\repos\MateoAntunez7\IntegradorDSI\RedSismica\obj\Debug\RedSismica.pdb
