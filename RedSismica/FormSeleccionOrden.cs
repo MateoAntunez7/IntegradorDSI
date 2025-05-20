@@ -26,5 +26,10 @@ namespace RedSismica
         {
 
         }
+
+        private void FormSeleccionOrden_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

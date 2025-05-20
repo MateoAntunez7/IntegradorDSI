@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C02D3B7-65CB-4AF7-B41F-5B0F2E830F1E}|RedSismica.csproj|c:\\users\\kedds\\source\\repos\\mateoantunez7\\integradordsi\\redsismica\\formseleccionorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7C02D3B7-65CB-4AF7-B41F-5B0F2E830F1E}|RedSismica.csproj|c:\\users\\kedds\\source\\repos\\mateoantunez7\\integradordsi\\redsismica\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C02D3B7-65CB-4AF7-B41F-5B0F2E830F1E}|RedSismica.csproj|solutionrelative:forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\SimuladorDatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:SimuladorDatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\Sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:Sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\EstacionSismologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:EstacionSismologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C02D3B7-65CB-4AF7-B41F-5B0F2E830F1E}|RedSismica.csproj|c:\\users\\kedds\\source\\repos\\mateoantunez7\\integradordsi\\redsismica\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C02D3B7-65CB-4AF7-B41F-5B0F2E830F1E}|RedSismica.csproj|solutionrelative:forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\MotivoFueraServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:MotivoFueraServicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\Estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:Estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:Usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C02D3B7-65CB-4AF7-B41F-5B0F2E830F1E}|RedSismica.csproj|C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\formseleccionorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C02D3B7-65CB-4AF7-B41F-5B0F2E830F1E}|RedSismica.csproj|solutionrelative:formseleccionorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C02D3B7-65CB-4AF7-B41F-5B0F2E830F1E}|RedSismica.csproj|C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\formseleccionorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7C02D3B7-65CB-4AF7-B41F-5B0F2E830F1E}|RedSismica.csproj|solutionrelative:formseleccionorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C02D3B7-65CB-4AF7-B41F-5B0F2E830F1E}|RedSismica.csproj|c:\\users\\kedds\\source\\repos\\mateoantunez7\\integradordsi\\redsismica\\formseleccionorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C02D3B7-65CB-4AF7-B41F-5B0F2E830F1E}|RedSismica.csproj|solutionrelative:formseleccionorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\ControladorCerrarOrden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:ControladorCerrarOrden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +66,136 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Estado.cs",
+              "DocumentMoniker": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\Estado.cs",
+              "RelativeDocumentMoniker": "Estado.cs",
+              "ToolTip": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\Estado.cs",
+              "RelativeToolTip": "Estado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:02:36.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MotivoFueraServicio.cs",
+              "DocumentMoniker": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\MotivoFueraServicio.cs",
+              "RelativeDocumentMoniker": "MotivoFueraServicio.cs",
+              "ToolTip": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\MotivoFueraServicio.cs",
+              "RelativeToolTip": "MotivoFueraServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:02:35.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstacionSismologica.cs",
+              "DocumentMoniker": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\EstacionSismologica.cs",
+              "RelativeDocumentMoniker": "EstacionSismologica.cs",
+              "ToolTip": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\EstacionSismologica.cs",
+              "RelativeToolTip": "EstacionSismologica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:02:34.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sesion.cs",
+              "DocumentMoniker": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\Sesion.cs",
+              "RelativeDocumentMoniker": "Sesion.cs",
+              "ToolTip": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\Sesion.cs",
+              "RelativeToolTip": "Sesion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:40:21.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SimuladorDatos.cs",
+              "DocumentMoniker": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\SimuladorDatos.cs",
+              "RelativeDocumentMoniker": "SimuladorDatos.cs",
+              "ToolTip": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\SimuladorDatos.cs",
+              "RelativeToolTip": "SimuladorDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:39:53.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\Usuario.cs",
+              "RelativeDocumentMoniker": "Usuario.cs",
+              "ToolTip": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\Usuario.cs",
+              "RelativeToolTip": "Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:39:11.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormInicio.cs",
+              "DocumentMoniker": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\FormInicio.cs",
+              "RelativeDocumentMoniker": "FormInicio.cs",
+              "ToolTip": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\FormInicio.cs",
+              "RelativeToolTip": "FormInicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:34:09.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\FormInicio.cs",
+              "RelativeDocumentMoniker": "FormInicio.cs",
+              "ToolTip": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\FormInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:34:05.293Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "FormSeleccionOrden.cs",
               "DocumentMoniker": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\FormSeleccionOrden.cs",
               "RelativeDocumentMoniker": "FormSeleccionOrden.cs",
               "ToolTip": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\FormSeleccionOrden.cs",
               "RelativeToolTip": "FormSeleccionOrden.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T21:29:59.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
+              "Title": "ControladorCerrarOrden.cs",
+              "DocumentMoniker": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\ControladorCerrarOrden.cs",
+              "RelativeDocumentMoniker": "ControladorCerrarOrden.cs",
+              "ToolTip": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\ControladorCerrarOrden.cs",
+              "RelativeToolTip": "ControladorCerrarOrden.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:14:21.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "FormSeleccionOrden.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\kedds\\source\\repos\\MateoAntunez7\\IntegradorDSI\\RedSismica\\FormSeleccionOrden.cs",
               "RelativeDocumentMoniker": "FormSeleccionOrden.cs",
