@@ -1,18 +1,23 @@
-﻿using System;
+﻿// MotivoTipo.cs
 namespace RedSismica
-
-public class MotivoTipo
 {
-    public string Descripcion { get; set; }
-
-    public static List<MotivoTipo> BuscarMotivoTipo()
+    public class MotivoTipo
     {
-        return new List<MotivoTipo>
+        public string Descripcion { get; set; } // Atributo del diagrama de clases
+
+        // Constructor
+        public MotivoTipo(string descripcion)
         {
-            new MotivoTipo { Descripcion = "Fallo técnico" },
-            new MotivoTipo { Descripcion = "Clima extremo" },
-            new MotivoTipo { Descripcion = "Mantenimiento programado" }
-        };
+            Descripcion = descripcion;
+        }
+
+        // El diagrama menciona buscarMotivoTipo(), que podría ser un método estático 
+        // en una clase gestora o aquí si se pasa una lista. Por ahora, no lo implementamos
+        // directamente aquí para mantener la clase simple.
+
+        public override string ToString()
+        {
+            return Descripcion;
+        }
     }
 }
-
